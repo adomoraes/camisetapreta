@@ -1,0 +1,142 @@
+[
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "Política / Educação" },
+      { "name": "Nascimento", "value": "11 de julho de 1901" },
+      { "name": "Falecimento", "value": "28 de março de 1952" },
+      { "name": "Destaque", "value": "Primeira mulher negra eleita no Brasil e primeira deputada estadual negra" }
+    ],
+    "name": "Antonieta de Barros"
+  },
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "Ciência / Educação" },
+      { "name": "Nascimento", "value": "26 de junho de 1957" },
+      { "name": "Local de Nascimento", "value": "São Paulo, SP" },
+      { "name": "Destaque", "value": "Primeira mulher negra doutora em Física e professora no ITA" }
+    ],
+    "name": "Sonia Guimarães"
+  },
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "Filosofia / Ativismo" },
+      { "name": "Nascimento", "value": "1 de agosto de 1980" },
+      { "name": "Local de Nascimento", "value": "Santos, SP" },
+      { "name": "Destaque", "value": "Filósofa, escritora e ativista do movimento negro" }
+    ],
+    "name": "Djamila Ribeiro"
+  },
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "Feminismo / Pesquisadora" },
+      { "name": "Nascimento", "value": "1980" },
+      { "name": "Local de Nascimento", "value": "Salvador, BA" },
+      { "name": "Destaque", "value": "Pesquisadora sobre feminismo negro e interseccionalidade" }
+    ],
+    "name": "Carla Akotirene"
+  },
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "Jornalismo / Militância" },
+      { "name": "Nascimento", "value": "1950" },
+      { "name": "Falecimento", "value": "1990" },
+      { "name": "Destaque", "value": "Fundadora do Movimento Negro Unificado" }
+    ],
+    "name": "Neusa Maria Pereira"
+  },
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "Política / Ativismo" },
+      { "name": "Nascimento", "value": "4 de maio de 1987" },
+      { "name": "Local de Nascimento", "value": "Rio de Janeiro, RJ" },
+      { "name": "Destaque", "value": "Jornalista, ativista e ministra da Igualdade Racial" }
+    ],
+    "name": "Anielle Franco"
+  },
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "Filosofia / Direitos Humanos" },
+      { "name": "Nascimento", "value": "24 de junho de 1950" },
+      { "name": "Local de Nascimento", "value": "São Paulo, SP" },
+      { "name": "Destaque", "value": "Fundadora do Geledés - Instituto da Mulher Negra" }
+    ],
+    "name": "Sueli Carneiro"
+  },
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "História / Resistência" },
+      { "name": "Nascimento", "value": "Século XIX" },
+      { "name": "Local de Nascimento", "value": "Salvador, BA" },
+      { "name": "Destaque", "value": "Símbolo da luta contra a escravidão, ligada à Revolta dos Malês" }
+    ],
+    "name": "Luísa Mahin"
+  },
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "História / Resistência" },
+      { "name": "Nascimento", "value": "1655" },
+      { "name": "Falecimento", "value": "20 de novembro de 1695" },
+      { "name": "Destaque", "value": "Líder do Quilombo dos Palmares e símbolo da resistência contra a escravidão" }
+    ],
+    "name": "Zumbi dos Palmares"
+  },
+  {
+    "image": {
+      "author": "placeholder",
+      "color": "#000000",
+      "url": "https://via.placeholder.com/150"
+    },
+    "metadata": [
+      { "name": "Área", "value": "Direito / Abolicionismo" },
+      { "name": "Nascimento", "value": "21 de junho de 1830" },
+      { "name": "Falecimento", "value": "24 de agosto de 1882" },
+      { "name": "Destaque", "value": "Advogado, jornalista e abolicionista" }
+    ],
+    "name": "Luís Gama"
+  }
+]
