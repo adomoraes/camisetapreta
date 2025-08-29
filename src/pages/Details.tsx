@@ -67,7 +67,7 @@ export function Details() {
 						</thead>
 						<tbody>
 							{profile.metadata.map(({name, value}) => (
-								<tr className='font-medium' key={`ProfileVitamin-${name}`}>
+								<tr className='font-medium' key={`Profile-${name}`}>
 									<td className='border border-gray-300 px-4 py-2'>{name}</td>
 									<td className='border border-gray-300 px-4 py-2'>{value}</td>
 								</tr>
