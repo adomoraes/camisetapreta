@@ -17,7 +17,7 @@
 	"id": "/",
 	"lang": "en",
 	"name": "Camiseta Preta",
-	"scope": "/",
+	"scope": "/camisetapreta/",
 	"screenshots": [
 		{
 			"form_factor": "narrow",
@@ -45,6 +45,6 @@
 		}
 	],
 	"short_name": "Camiseta Preta",
-	"start_url": "/",
+	"start_url": "/camisetapreta/",
 	"theme_color": "#BD34FE"
 }
